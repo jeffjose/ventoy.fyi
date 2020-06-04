@@ -16,10 +16,12 @@
 </style>
 
 <svelte:head>
-  <title>sapper-firebase-tailwindcss project template</title>
+  <title>ventoy.fyi</title>
 </svelte:head>
 
-<div class="container mx-auto">
+<div class="container" />
+
+<!-- <div class="container mx-auto">
   <h1 class="text-2xl text-center mb-5">
     Welcome to sapper-firebase-tailwindcss project template
   </h1>
@@ -50,4 +52,4 @@
     <p class="text-center">Firestore is empty.</p>
   {/each}
 
-</div>
+</div> -->
